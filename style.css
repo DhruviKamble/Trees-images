@@ -1,0 +1,19 @@
+body {
+    background: #a6a6fc;
+}
+
+h1 {
+    color: black;
+    font-size: 60px;
+}
+
+img {
+    width: 500px;
+    height: 300px;
+    margin: 40px;
+    align-self: center;
+    border-color: whitesmoke;
+    border-width: 25px;
+    border-style: double;
+    border-radius: 15px;
+  }
